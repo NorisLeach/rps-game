@@ -1,0 +1,11 @@
+.gradle/
+build/
+logs/
+.idea/
+*.iml
+.DS_Store
+
+# Dacă frontend-ul folosește npm/yarn:
+frontend/node_modules/
+frontend/dist/
+frontend/build/
